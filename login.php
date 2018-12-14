@@ -45,7 +45,7 @@ if(isset($_SESSION['name']))
 
     <form id="logForm" class="loginForm" method="post" 
         enctype = "multipart/form-data"> 
-      <h2>LOGIN La Kimak!</h2>
+      <h2>LOGIN LA BODOH SEBELUM KAU JADI ANOL!</h2>
         <div class="input-group">
             <input type="text" name="name" id="name" placeholder="username" value="<?php echo $name; ?>"
             required name="name"/><?php echo $usernameErr; ?>
